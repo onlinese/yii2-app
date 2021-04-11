@@ -1,12 +1,12 @@
 {
-    "name": "akiraz2/yii2-app",
+    "name": "onlinese/yii2-app",
     "description": "Yii2 my advanced project template (Redis-cache, DB-queue, gentelella-admin, dektrium-user, DB-log)",
     "keywords": ["yii2", "framework", "advanced", "project template"],
-    "homepage": "https://github.com/akiraz2/yii2-app",
+    "homepage": "https://github.com/onlinese/yii2-app",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/akiraz2/yii2-app"
+        "source": "https://github.com/onlinese/yii2-app"
     },
     "minimum-stability": "stable",
     "require": {
